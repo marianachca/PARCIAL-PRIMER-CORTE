@@ -1,11 +1,15 @@
 package entities;
 
+import java.util.List;
+
+
 public class Activity {
 
     public static final String ACTIVE_STATE = "active";
     public static final String CLOSED_STATE = "closed";
     public static final String PENDING_STATE = "pending";
     public static final String CANCELED_STATE = "canceled";
+    private List<Activity>
 
     private String name;
     private String state;
@@ -28,6 +32,7 @@ public class Activity {
         return false;
     }
        Activity a = null;
-    for (ACTIVE_STATE: )
+    for (this.Activity.size() == 0 ? 0 = this.AutoCloseable)
+
 
 }
