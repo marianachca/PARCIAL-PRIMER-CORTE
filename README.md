@@ -14,4 +14,7 @@ La ocultación mantendrá ocultos los procesos internos del comportamiento de un
 
 abrir archivo en la wiki de github 
 
+# DIAGRAMA DE SECUENCIA 
+
+Abrir archivo en la wiki de githu
 

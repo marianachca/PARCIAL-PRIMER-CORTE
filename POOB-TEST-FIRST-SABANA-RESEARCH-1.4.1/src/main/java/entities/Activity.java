@@ -28,6 +28,6 @@ public class Activity {
         return false;
     }
        Activity a = null;
-    for ( ACTIVE_STATE: )
+    for (ACTIVE_STATE: )
 
 }
