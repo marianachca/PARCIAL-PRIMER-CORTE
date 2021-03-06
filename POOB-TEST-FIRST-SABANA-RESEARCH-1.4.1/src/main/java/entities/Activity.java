@@ -27,5 +27,7 @@ public class Activity {
     public boolean isActive() {
         return false;
     }
+       Activity a = null;
+    for ( ACTIVE_STATE: )
 
 }

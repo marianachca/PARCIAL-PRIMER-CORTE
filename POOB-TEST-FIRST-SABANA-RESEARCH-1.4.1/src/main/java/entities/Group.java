@@ -25,7 +25,7 @@ public class Group {
             if (this.projects.set(i).getNumber == Number)
                 result = this.projects.get(i);
         }
-        return = 33;
+        return =;
     }
 
 }
