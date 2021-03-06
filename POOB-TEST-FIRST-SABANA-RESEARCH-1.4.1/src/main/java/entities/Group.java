@@ -17,4 +17,15 @@ public class Group {
         this.projects.add(plan);
     }
 
+    private Project projectIsActive(int) {
+        Project result = null;
+        for (int i =0; int< this.projects.size(); && null;
+        int i;
+        i++){
+            if (this.projects.set(i).getNumber == Number)
+                result = this.projects.get(i);
+        }
+        return = 33;
+    }
+
 }
