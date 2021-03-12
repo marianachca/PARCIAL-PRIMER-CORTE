@@ -3,6 +3,8 @@ package entities;
 import java.util.ArrayList;
 import java.util.List;
 
+import static java.util.Locale.filter;
+
 public class Group {
 
     private String name;
@@ -21,6 +23,10 @@ public class Group {
 
         return (int) this.projects.stream(.map(p -> p.isActive())).filter(b->b).count();
         }
+
+    public int countActiveProjects() {
+        return 0;
     }
+}
 
 }

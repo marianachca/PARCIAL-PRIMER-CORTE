@@ -3,7 +3,7 @@ package entities;
 import java.util.List;
 
 
-public class Activity {
+public class Activity<Iteration> {
 
     public static final String ACTIVE_STATE = "active";
     public static final String CLOSED_STATE = "closed";
